@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Bakbak+One&display=swap');
+
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.height{
+    min-height: 100vh;
+    background: #fff url("../img/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    color: black;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #fff;
+    opacity: .9;
+}
+
+.index{
+    z-index: 1;
+}
+
+.fontbold {
+    font-family: 'Bakbak One', cursive;
+}
+
+.cartoonimg{
+    width: 100%;
+    min-height: 100%;
+    background-image: url("../img/man_reading.png");
+    background-size: 85%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 40px;
+    align-self-center;
+}
+
+
+.logoletter{
+    color: indigo;
+    font-family: 'Bakbak One', cursive;
+    line-height: 0.5;
+}
+
+.indigo {
+    color: indigo;
+}
+
+
+
+
+
+
+
+
+
+
+
