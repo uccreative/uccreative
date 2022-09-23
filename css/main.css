@@ -5,7 +5,7 @@ body {
 }
 
 .height{
-    min-height: 100vh;
+    min-height: 120vh;
     background: #fff url("../img/bg.jpg");
     background-position: center;
     background-size: cover;
